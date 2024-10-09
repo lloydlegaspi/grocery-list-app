@@ -1,7 +1,7 @@
 # Grocery List App
 
 ## Introduction
-The **Grocery List App** is a small project developed as part of the **JavaScript DOM Crash Course - Part 4 [Final Project]** by Traversy Media. This simple web application allows users to add, search, and delete items from a grocery list. It serves as a practical example of manipulating the DOM using vanilla JavaScript and reinforces concepts such as event handling, DOM traversal, and list management.
+The **Grocery List App** is a small project developed as part of the **JavaScript DOM Crash Course** by Traversy Media. This simple web application allows users to add, search, and delete items from a grocery list. It serves as a practical example of manipulating the DOM using vanilla JavaScript and reinforces concepts such as event handling, DOM traversal, and list management.
 
 ## Project Structure
 - **HTML**: Provides the structure of the page, including headers, input fields, and lists.
